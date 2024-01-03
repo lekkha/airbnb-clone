@@ -20,7 +20,7 @@ This project was created following a React course from Scrimba by Bob Ziroll [Le
 
 ### Links
 
-- Live Site URL: [live site URL here](https://mellow-puppy-f015f1.netlify.app/)
+- Live Site URL: [live site URL here](https://airbnb-clone-khaki-kappa.vercel.app/)
 
 ## My process
 
