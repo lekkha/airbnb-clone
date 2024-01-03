@@ -3,10 +3,11 @@ import React from "react";
 import star from '../images/star.png'
 
 export default function Card(props){
-    console.log(props);
+    console.log(props.openSpots);
     return(
         <div className="card">
-        <img src={props.img} alt="katie" className="card--image"/>
+        <div className="card--badge">SOLD OUT</div>
+        <img src={require(`../images/${props.img}`)} alt={props.img} className="card--image" />
         <div className="card--stats">
             <img src={star} className="card--star" />
             <span>{props.rating} </span>
