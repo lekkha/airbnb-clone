@@ -26,11 +26,11 @@ This project was created following a React course from Scrimba by Bob Ziroll [Le
 
 ### Built with
 
-- Reactjs + Vite
+- Reactjs
 - Javascript
 
 ### What I learned
 
-- Create React app with Vite
+- Create React app
 - Props
 - using map() method to get data
